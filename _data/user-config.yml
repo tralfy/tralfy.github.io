@@ -3,15 +3,15 @@ meta-title: "PT-DLC5"
 # this shows up below the title in a google search result
 meta-description: This is an example of the description
 # whether to show the title on the front page
-show-title: true
+show-title: false
 # this shows up on the main page
-title: "\uE001PT-DLC5-6"
+title: "\uE001hi, i'm mark"
 # this is a convenient shortcut to hide the intro text which can be changed in user-intro-text.md
 show-intro-text: false
 # whether to show the background image or not
-show-background: false
+show-background: true
 # optional. will fill the screen. place the image in the user-images folder and add the name of it here
-background-image: sky.png
+background-image: MRS00313 - Copy.jpg
 # this is just a convenient switch to hide all the images without having to delete the text below
 show-images: false
 # whether to put the images above or below the intro text
@@ -34,20 +34,18 @@ vertical-links: false
 # adding the parameter new-tab and setting it to true will open the link in a new browser tab
 links:
 
-- title: Spotify
-  url: https://open.spotify.com/artist/6TFOalvhHRXh8JmQTVSoyY?si=by2Uv4_pRSGLL92wMk5K3g
-  new-tab: true
+- title: about
+  url: user-custom-page
 
-- title: Twitter
-  url: http://twitter.com/pedestriantac
+- title: youtube
+  url: https://www.youtube.com/channel/UCX8rkPbLn1e_sOaUvj31RNA
   new-tab: true
   
-- title: Instagram
-  url: http://instagram.com/pedestriantactics
+- title: instagram
+  url: http://instagram.com/markryan_music
   new-tab: true
   
-- title: Email
+- title: photo gallery
   url: mailto:hi@pedestriantactics.com
 
-- title: Custom page
-  url: user-custom-page
+

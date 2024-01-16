@@ -14,7 +14,7 @@
     /* color of the whole page */
     --color-background: #ffff00;
     /* color of text elements */
-    --color-foreground: black;
+    --color-foreground: white;
 }
 
 /* these are settings for all text */
@@ -30,7 +30,7 @@ body {
     /* use 10vw for a medium sized name like John Smith */
     /* use 8vw for a longer name like Pedestrian Tactics */
     /* use 20vw for a shorter name like Klippee */
-    font-size: 13vw;
+    font-size: 6vw;
 }
 
 /* The alignment for all text and images */
@@ -41,12 +41,12 @@ p {
 
 /* this is the style for the intro text */
 #intro-text p {
-    font-size: 32pt;
+    font-size: 48pt;
 }
 
 /* this will show up on custom pages */
 .custom-page-text {
-    font-size: 32pt;
+    font-size: 20pt;
 }
 
 /* this is the style for the links */
